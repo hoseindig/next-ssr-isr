@@ -9,6 +9,7 @@ const MainPage = () => {
       <Link href="users">Users</Link> | <Link href="blog">Blog</Link> |{" "}
       <Link href="products">Products</Link>|{" "}
       <Link href="dashboard">Dashboard</Link> |{" "}
+      <Link href="dashbaord-swr">Dashbaord-swr</Link> |{" "}
     </div>
   );
 };

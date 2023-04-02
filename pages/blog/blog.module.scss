@@ -1,0 +1,27 @@
+.mainBox {
+  display: flex;
+  flex-wrap: wrap;
+  .box {
+    margin: 5px;
+    max-width: calc(25% - 10px);
+    min-width: calc(25% - 10px);
+    border: 1px solid gray;
+    height: 150px;
+    padding: 5px;
+    overflow: hidden;
+
+    h4 {
+      font-size: 0.8em;
+
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    span {
+      font-size: 0.5em;
+      max-height: 100px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+  }
+}

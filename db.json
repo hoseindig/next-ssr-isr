@@ -1,9 +1,15 @@
 {
+  "dashboard": {
+    "post": 41,
+    "like": 24,
+    "followrs": 44,
+    "followinf": 54
+  },
   "news": [
     {
       "id": 1,
-      "title": "macbook pro news",
-      "description": "description 1",
+      "title": "macbook pro news 11",
+      "description": "description ++",
       "category": "tech"
     },
     {
@@ -16,7 +22,7 @@
       "id": 3,
       "title": "macbook pro m2 pro news",
       "description": "description 1",
-      "category": "tech"
+      "category": "it"
     }
   ],
   "products": [

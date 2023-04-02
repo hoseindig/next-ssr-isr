@@ -5,6 +5,93 @@
     "followrs": 44,
     "following": 111111
   },
+  "category": [
+    {
+      "id": 1,
+      "name": "it"
+    },
+    {
+      "id": 2,
+      "name": "new"
+    },
+    {
+      "id": 3,
+      "name": "tech"
+    }
+  ],
+  "event": [
+    {
+      "id": 1,
+      "title": "macbook pro news 1",
+      "description": "description ++",
+      "category": "new",
+      "date": "1402/01/01"
+    },
+    {
+      "id": 2,
+      "title": "macbook pro news 2",
+      "description": "description ++",
+      "category": "it",
+      "date": "1402/01/01"
+    },
+    {
+      "id": 3,
+      "title": "macbook pro news 3",
+      "description": "description ++",
+      "category": "tech",
+      "date": "1402/01/01"
+    },
+    {
+      "id": 4,
+      "title": "macbook pro news 4",
+      "description": "description ++",
+      "category": "tech",
+      "date": "1402/01/01"
+    },
+
+    {
+      "id": 5,
+      "title": "macbook pro news 5",
+      "description": "description ++",
+      "category": "it",
+      "date": "1402/01/01"
+    },
+    {
+      "id": 6,
+      "title": "macbook pro news 6",
+      "description": "description ++",
+      "category": "tech",
+      "date": "1402/01/01"
+    },
+    {
+      "id": 7,
+      "title": "macbook pro news 7",
+      "description": "description ++",
+      "category": "news",
+      "date": "1402/01/01"
+    },
+    {
+      "id": 8,
+      "title": "macbook pro news 8",
+      "description": "description ++",
+      "category": "tech",
+      "date": "1402/01/01"
+    },
+    {
+      "id": 9,
+      "title": "macbook pro news 9",
+      "description": "description ++",
+      "category": "tech",
+      "date": "1402/01/01"
+    },
+    {
+      "id": 10,
+      "title": "macbook pro news 10",
+      "description": "description ++",
+      "category": "new",
+      "date": "1402/01/01"
+    }
+  ],
   "news": [
     {
       "id": 1,
